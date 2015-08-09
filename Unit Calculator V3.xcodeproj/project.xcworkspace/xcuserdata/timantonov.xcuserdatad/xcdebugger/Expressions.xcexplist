@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Unit_Calculator_V3.Expression.evaluate (Unit_Calculator_V3.Expression)() -&gt; Swift.String:Expression.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tokens">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Unit_Calculator_V3.Expression.(getRpnTokens in _E0B816CD68C19735B41AE1CDBEE8D149) (Unit_Calculator_V3.Expression)() -&gt; Swift.Array&lt;(type : Unit_Calculator_V3.TokenType, value : ObjectiveC.NSString)&gt;:Expression.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Unit_Calculator_V3.ViewController.arithmeticOperandTapped (Unit_Calculator_V3.ViewController)(ObjectiveC.UIButton) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "operatr">
+            </PersistentString>
+            <PersistentString
+               value = "operand1">
+            </PersistentString>
+            <PersistentString
+               value = "state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Unit_Calculator_V3.ViewController.equalsTapped (Unit_Calculator_V3.ViewController)(ObjectiveC.UIButton) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "operatr">
+            </PersistentString>
+            <PersistentString
+               value = "expression">
+            </PersistentString>
+            <PersistentString
+               value = "state">
+            </PersistentString>
+            <PersistentString
+               value = "operand2">
+            </PersistentString>
+            <PersistentString
+               value = "test">
+            </PersistentString>
+            <PersistentString
+               value = "operand1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mach_msg_trap:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
